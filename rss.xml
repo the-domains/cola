@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Cola]]></title>
         <description><![CDATA[Cola]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/cola/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Feb 2016 15:50:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 09 Feb 2016 15:52:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/cola/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>asdfasdfasdfasdfasdf</p>]]></description>
-            <link>undefined41cb5662-dff1-4a2b-8944-bf4732cc2039/index.html</link>
+            <link>https://thegrid.ai/cola/41cb5662-dff1-4a2b-8944-bf4732cc2039/index.html</link>
             <guid isPermaLink="false">41cb5662-dff1-4a2b-8944-bf4732cc2039</guid>
             <pubDate>Tue, 09 Feb 2016 15:50:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>sdafasdf</p>]]></description>
+            <link>https://thegrid.ai/cola/91a63d40-a61e-414e-a6c5-1163832f6317/index.html</link>
+            <guid isPermaLink="false">91a63d40-a61e-414e-a6c5-1163832f6317</guid>
+            <pubDate>Tue, 09 Feb 2016 15:52:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
