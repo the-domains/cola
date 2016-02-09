@@ -1,14 +1,28 @@
+name: Cola
+favicon: null
 layout_spectrum: 0.4641577
+typography_spectrum: 0.6397849
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5698925
-  brandStrength: 0.4928315
-  lightness: 0.6666667
   brandColors:
     - '#6F86B5'
     - '#274B16'
     - '#020301'
     - '#D0E8D0'
     - '#BBE15B'
+  brandStrength: 0.375
+  lightness: 0.6666667
+  saturation: 0.5698925
   rhythmicContrast: 1
-typography_spectrum: 0.6397849
-name: Cola
+purpose: []
